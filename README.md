@@ -1,7 +1,11 @@
 # HTML-Learned
 
+**🔗 Live Demo:** [View Project Here](https://jam7519.github.io/HTML-Learned/)
+
 My first HTML project from Codecademy.  
 This project contains a simple webpage about the Brown Bear, where I practiced the basics of HTML.
+
+![Project Screenshot](screenshot.png)
 
 ## What I Learned
 
