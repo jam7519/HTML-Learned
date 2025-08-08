@@ -5,7 +5,6 @@
 My first HTML project from Codecademy.  
 This project contains a simple webpage about the Brown Bear, where I practiced the basics of HTML.
 
-![Project Screenshot](screenshot.png)
 
 ## What I Learned
 
